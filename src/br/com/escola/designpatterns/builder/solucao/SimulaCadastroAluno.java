@@ -19,13 +19,13 @@ public class SimulaCadastroAluno {
 		
 		
 		Aluno aluno = new AlunoBuilder()
-				.sobreNome("Souto")
+				.apelido("Soltinho")
 				.email("bruno@gmail.com")
 				.telefone("99999-9999")
-				.apelido("Soltinho")
+				.nome("Bruno")
 				.cpf("333.333.333-33")
 				.idade(22)
-				.nome("Bruno")
+				.sobreNome("Souto")
 				.build();
 		
 		Aluno aluno2 = new Aluno.AlunoBuilderInterno()

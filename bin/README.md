@@ -19,6 +19,18 @@ Benefícios:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+
+1 - Static Factory Methods
+
+Benefícios:
+
+* Controla a devolução do tipo de intancias.
+* Proporciona maior legibilidade na criação dos objetos, por causa do nome do metodo.
+* Encapsula e centraliza lógica de negócio.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 PARA SABER MAIS:
 - https://refactoring.guru/design-patterns
 
