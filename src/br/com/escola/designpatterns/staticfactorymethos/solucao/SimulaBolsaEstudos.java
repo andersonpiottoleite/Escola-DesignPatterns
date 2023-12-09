@@ -1,6 +1,5 @@
 package br.com.escola.designpatterns.staticfactorymethos.solucao;
 
-import java.io.ByteArrayInputStream;
 import java.util.Calendar;
 
 public class SimulaBolsaEstudos {
