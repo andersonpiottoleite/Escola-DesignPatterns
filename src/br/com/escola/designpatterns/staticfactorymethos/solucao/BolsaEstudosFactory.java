@@ -19,7 +19,7 @@ public class BolsaEstudosFactory {
 	
 	public static BolsaEstudos criaBolsaEstudosConformeTipoBolsaEComDesconto(TipoBolsaEnum tipoBolsa, DescontoEnum descontoEnum) {
 		if(descontoEnum == null) {
-			throw new IllegalArgumentException("Você precisa informar um desconto seu getne boa!");
+			throw new IllegalArgumentException("Você precisa informar um desconto seu gente boa!");
 		}
 		BolsaEstudos bolsaEstudos = null;
 		
